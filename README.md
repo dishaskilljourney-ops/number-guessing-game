@@ -1,0 +1,3 @@
+# Number Guessing Game
+
+A bash-based number guessing game.
